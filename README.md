@@ -12,7 +12,7 @@ in root dir of this app.
 
 To execute the server, execute command
 ```sh
-node bin\www
+node bin/www
 ```
 It will start localhost server on 3000 port.
 
